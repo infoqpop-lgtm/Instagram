@@ -1,2 +1,1 @@
-# Instagram
-auto run campaign with chat gpt
+# QPOP Instagram Campaign Automation
